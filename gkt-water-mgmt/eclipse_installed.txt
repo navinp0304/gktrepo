@@ -1,6 +1,0 @@
-codeMR
-findbugs and spotbugs
-stan
-jqassistant
-codecity
-
